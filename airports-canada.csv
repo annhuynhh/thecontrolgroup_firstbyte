@@ -1,0 +1,501 @@
+name,latitude,longitude,country,region,elevation_m,population,feature_type,geoname_id
+Vancouver International Airport,49.19489,-123.17923,Canada,British Columbia,4,0,airport,6301485
+Montreal-Pierre Elliott Trudeau International Airport,45.46106,-73.75019,Canada,Quebec,35,0,airport,6296296
+Toronto Pearson International Airport,43.68066,-79.61286,Canada,Ontario,173,0,airport,6296338
+Toronto Island Airport,43.62974,-79.39828,Canada,Ontario,76,0,airport,6301483
+Iqaluit Airport,63.75503,-68.55254,Canada,Nunavut,33,0,airport,6296184
+Halifax Stanfield International Airport,44.88392,-63.51171,Canada,Nova Scotia,145,0,airport,6296207
+Kelowna International Airport,49.95611,-119.37778,Canada,British Columbia,433,0,airport,6296229
+Ottawa Macdonald-Cartier International Airport,45.3225,-75.66917,Canada,Ontario,113,0,airport,6296246
+Rankin Inlet Airport,62.81027,-92.11332,Canada,Nunavut,28,0,airport,6296274
+Calgary International Airport,51.12933,-114.01294,Canada,Alberta,1084,0,airport,6296327
+Victoria International Airport,48.64721,-123.42716,Canada,British Columbia,19,0,airport,6296331
+Yellowknife Airport,62.46278,-114.44028,Canada,Northwest Territories,205,0,airport,6296340
+Kangiqsualujjuaq Airport,58.70973,-65.99267,Canada,Quebec,66,0,airport,5882474
+Maniwaki Airport,46.27282,-75.99029,Canada,Quebec,,0,airport,5882479
+Nemiscau Airport,51.69105,-76.13621,Canada,Quebec,244,0,airport,5882482
+Val-d'Or Airport,48.05018,-77.78279,Canada,Quebec,,0,airport,5882494
+Kugaaruk Airport,68.53444,-89.80806,Canada,Nunavut,17,0,airport,6301441
+CFB Bagotville,48.33055,-70.99639,Canada,Quebec,159,0,airport,6301442
+Campbell River Airport,49.95083,-125.27083,Canada,British Columbia,105,0,airport,6301443
+Berens River Airport,52.35851,-97.02129,Canada,Manitoba,222,0,airport,6301444
+Cartwright Airport,53.6844,-57.03787,Canada,Newfoundland and Labrador,12,0,airport,6301445
+Miramichi Airport,47.00778,-65.44917,Canada,New Brunswick,32,0,airport,6301446
+Coronation Airport,52.07573,-111.44814,Canada,Alberta,790,0,airport,6301448
+Dawson City Airport,64.04306,-139.12778,Canada,Yukon,370,0,airport,6301449
+Burwash Airport,61.37111,-139.04056,Canada,Yukon,806,0,airport,6301450
+Lt. Col W.G. (Billy) Barker VC Airport,51.10083,-100.0525,Canada,Manitoba,304,0,airport,6301451
+Nain Airport,56.54981,-61.68308,Canada,Newfoundland and Labrador,6,0,airport,6301452
+Edmonton International Airport,53.30801,-113.58447,Canada,Alberta,723,0,airport,6301453
+Eureka Aerodrome,79.99472,-85.81417,Canada,Nunavut,78,0,airport,6301454
+Fredericton International Airport,45.86999,-66.53217,Canada,New Brunswick,20,0,airport,6301455
+Gimli Industrial Park Airport,50.62806,-97.04333,Canada,Manitoba,229,0,airport,6301456
+Îles-de-la-Madeleine Airport,47.42472,-61.77806,Canada,Quebec,10,0,airport,6301457
+Montréal/Saint-Hubert Airport,45.51621,-73.42069,Canada,Quebec,27,0,airport,6301459
+Kamloops Airport,50.70222,-120.44444,Canada,British Columbia,345,0,airport,6301460
+Toronto/Buttonville Municipal Airport,43.86222,-79.37,Canada,Ontario,198,0,airport,6301461
+Alert Airport,82.51778,-62.28056,Canada,Nunavut,30,0,airport,6301462
+Mary's Harbour Airport,52.3031,-55.84443,Canada,Newfoundland and Labrador,11,0,airport,6301464
+Fort McMurray Airport,56.65333,-111.22194,Canada,Alberta,369,0,airport,6301465
+Inukjuak Airport,58.46944,-78.08052,Canada,Quebec,25,0,airport,6301467
+Pickle Lake Airport,51.44639,-90.21417,Canada,Ontario,386,0,airport,6301468
+Port-Menier Airport,49.83639,-64.28861,Canada,Quebec,50,0,airport,6301469
+Burns Lake Airport,54.37639,-125.95139,Canada,British Columbia,714,0,airport,6301471
+Quebec City Jean Lesage International Airport,46.79227,-71.38431,Canada,Quebec,74,0,airport,6301472
+Lethbridge Airport,49.62996,-112.79101,Canada,Alberta,928,0,airport,6301473
+Regina International Airport,50.43194,-104.66583,Canada,Saskatchewan,577,0,airport,6301474
+Quesnel Airport,53.02611,-122.51028,Canada,British Columbia,545,0,airport,6301475
+Rocky Mountain House Airport,52.42972,-114.90417,Canada,Alberta,988,0,airport,6301476
+Sherbrooke Airport,45.43861,-71.69139,Canada,Quebec,241,0,airport,6301478
+Saint-Léonard Airport,47.1575,-67.83472,Canada,New Brunswick,241,0,airport,6301479
+St. Catharines/Niagara District Airport,43.19167,-79.17167,Canada,Ontario,97,0,airport,6301480
+Summerside Airport,46.44056,-63.83361,Canada,Prince Edward Island,17,0,airport,6301481
+Sachs Harbour Airport,71.99389,-125.2425,Canada,Northwest Territories,85,0,airport,6301482
+La Ronge (Barber Field) Airport,55.15139,-105.26194,Canada,Saskatchewan,378,0,airport,6301484
+Buffalo Narrows Airport,55.84194,-108.4175,Canada,Saskatchewan,440,0,airport,6301486
+Winnipeg James Armstrong Richardson International Airport,49.90572,-97.23351,Canada,Manitoba,238,0,airport,6301487
+Déline Airport,65.21054,-123.43569,Canada,Northwest Territories,176,0,airport,6301489
+Edmonton City Centre Airport,53.5725,-113.52056,Canada,Alberta,670,0,airport,6301491
+Pangnirtung Airport,66.145,-65.71361,Canada,Nunavut,22,0,airport,6301492
+North Bay/Jack Garland Airport,46.3631,-79.42403,Canada,Ontario,370,0,airport,6301493
+Penticton Regional Airport,49.46306,-119.60222,Canada,British Columbia,344,0,airport,6301494
+Charlottetown Airport,46.2864,-63.1265,Canada,Prince Edward Island,48,0,airport,6301495
+Swift Current Airport,50.29194,-107.69056,Canada,Saskatchewan,816,0,airport,6301496
+St. John's International Airport,47.616,-52.74313,Canada,Newfoundland and Labrador,140,0,airport,6301497
+Whitecourt Airport,54.14389,-115.78667,Canada,Alberta,782,0,airport,6301498
+Teslin Airport,60.17278,-132.74278,Canada,Yukon,705,0,airport,6301499
+Faro Airport,62.2075,-133.37583,Canada,Yukon,716,0,airport,6301501
+Churchill Falls Airport,53.56194,-64.10639,Canada,Newfoundland and Labrador,439,0,airport,6301507
+Grise Fiord Airport,76.42552,-82.9073,Canada,Nunavut,45,0,airport,6295841
+Squamish Airport,49.78279,-123.16185,Canada,British Columbia,59,0,airport,6296029
+La Grande-4 Airport,53.75409,-73.67929,Canada,Quebec,306,0,airport,6296152
+Sault Ste. Marie Airport,46.485,-84.50944,Canada,Ontario,192,0,airport,6296153
+St. Anthony Airport,51.3915,-56.08606,Canada,Newfoundland and Labrador,32,0,airport,6296155
+Tofino/Long Beach Airport,49.07977,-125.77775,Canada,British Columbia,24,0,airport,6296156
+Baie-Comeau Airport,49.1325,-68.20444,Canada,Quebec,21,0,airport,6296157
+Bella Coola Airport,52.3875,-126.59583,Canada,British Columbia,35,0,airport,6296158
+Baker Lake Airport,64.29889,-96.07778,Canada,Nunavut,17,0,airport,6296159
+Brandon Airport,49.90738,-99.94915,Canada,Manitoba,409,0,airport,6296161
+Lourdes-de-Blanc-Sablon Airport,51.44361,-57.18528,Canada,Quebec,36,0,airport,6296164
+Cambridge Bay Airport,69.10805,-105.13833,Canada,Nunavut,27,0,airport,6296165
+Nanaimo Airport,49.05233,-123.87017,Canada,British Columbia,28,0,airport,6296166
+Castlegar Airport,49.29639,-117.6325,Canada,British Columbia,494,0,airport,6296167
+Charlo Airport,47.99083,-66.33028,Canada,New Brunswick,40,0,airport,6296168
+Kugluktuk Airport,67.81667,-115.14389,Canada,Nunavut,22,0,airport,6296169
+Chetwynd Airport,55.68722,-121.62667,Canada,British Columbia,609,0,airport,6296170
+Clyde River Airport,70.48611,-68.51667,Canada,Nunavut,26,0,airport,6296173
+Deer Lake Regional Airport,49.21083,-57.39139,Canada,Newfoundland and Labrador,21,0,airport,6296175
+Ross River Airport,61.97172,-132.42959,Canada,Yukon,705,0,airport,6296176
+Dawson Creek Airport,55.74233,-120.183,Canada,British Columbia,654,0,airport,6296177
+Arviat Airport,61.09411,-94.07164,Canada,Nunavut,9,0,airport,6296179
+Elliot Lake Municipal Airport,46.35139,-82.56139,Canada,Ontario,331,0,airport,6296180
+Estevan Regional Aerodrome,49.20801,-102.96005,Canada,Saskatchewan,580,0,airport,6296181
+Edson Airport,53.57895,-116.46216,Canada,Alberta,926,0,airport,6296182
+Inuvik (Mike Zubko) Airport,68.30417,-133.48278,Canada,Northwest Territories,68,0,airport,6296183
+Flin Flon Airport,54.67806,-101.68167,Canada,Manitoba,303,0,airport,6296185
+Fort Resolution Airport,61.18083,-113.68972,Canada,Northwest Territories,160,0,airport,6296186
+Fort Simpson Airport,61.76015,-121.23653,Canada,Northwest Territories,169,0,airport,6296187
+Makkovik Airport,55.07756,-59.18708,Canada,Newfoundland and Labrador,71,0,airport,6296188
+Fort Good Hope Airport,66.24066,-128.6478,Canada,Northwest Territories,81,0,airport,6296190
+Kingston/Norman Rogers Airport,44.22528,-76.59694,Canada,Ontario,92,0,airport,6296191
+La Grande Rivière Airport,53.62528,-77.70417,Canada,Quebec,194,0,airport,6296192
+Michel-Pouliot Gaspé Airport,48.77528,-64.47861,Canada,Quebec,32,0,airport,6296193
+Geraldton (Greenstone Regional) Airport,49.77833,-86.93945,Canada,Ontario,348,0,airport,6296194
+Igloolik Airport,69.365,-81.81746,Canada,Nunavut,51,0,airport,6296195
+Havre Saint-Pierre Airport,50.28194,-63.61139,Canada,Quebec,37,0,airport,6296196
+Kuujjuarapik Airport,55.28338,-77.76441,Canada,Quebec,21,0,airport,6296197
+Quaqtaq Airport,61.04721,-69.61843,Canada,Quebec,30,0,airport,6296198
+Hudson Bay Airport,52.81667,-102.31139,Canada,Saskatchewan,358,0,airport,6296199
+Dryden Regional Airport,49.83167,-92.74417,Canada,Ontario,412,0,airport,6296200
+Ulukhaktok/Holman Island Airport,70.76278,-117.80611,Canada,Northwest Territories,35,0,airport,6296203
+Gjoa Haven Airport,68.63556,-95.84972,Canada,Nunavut,46,0,airport,6296204
+John C. Munro Hamilton International Airport,43.17094,-79.92914,Canada,Ontario,237,0,airport,6296205
+Hay River/Merlyn Carter Airport,60.83972,-115.78278,Canada,Northwest Territories,165,0,airport,6296206
+Digby/Annapolis Regional Airport,44.54877,-65.78545,Canada,Nova Scotia,152,0,airport,6296208
+Ivujivik Airport,62.41733,-77.92528,Canada,Quebec,38,0,airport,6296209
+Pond Inlet Airport,72.68674,-77.97319,Canada,Nunavut,55,0,airport,6296210
+Island Lake Airport,53.85691,-94.65383,Canada,Manitoba,237,0,airport,6296211
+Fort Liard Airport,60.23564,-123.47071,Canada,Northwest Territories,215,0,airport,6296212
+Stephenville International Airport,48.54417,-58.55,Canada,Newfoundland and Labrador,24,0,airport,6296213
+Aklavik/Freddie Carmichael Airport,68.22333,-135.00583,Canada,Northwest Territories,7,0,airport,6296214
+Kitchener/Waterloo Airport,43.45747,-80.38593,Canada,Ontario,321,0,airport,6296215
+Schefferville Airport,54.80528,-66.80528,Canada,Quebec,520,0,airport,6296218
+Akulivik Airport,60.81861,-78.14861,Canada,Quebec,22,0,airport,6296219
+Waskaganish Airport,51.4753,-78.75489,Canada,Quebec,23,0,airport,6296220
+Kindersley Regional Airport,51.5183,-109.17535,Canada,Saskatchewan,694,0,airport,6296221
+Aupaluk Airport,59.29667,-69.59972,Canada,Quebec,35,0,airport,6296222
+Kimmirut Airport,62.84845,-69.87841,Canada,Nunavut,53,0,airport,6296223
+Chapleau Airport,47.82088,-83.35276,Canada,Ontario,448,0,airport,6296224
+Meadow Lake Airport,54.12274,-108.51441,Canada,Saskatchewan,480,0,airport,6296225
+Lutselk'e Airport,62.41812,-110.67919,Canada,Northwest Territories,179,0,airport,6296226
+Lloydminster Airport,53.30917,-110.0725,Canada,Alberta,668,0,airport,6296227
+Mayo Airport,63.61667,-135.86667,Canada,Yukon,504,0,airport,6296230
+CFB Moose Jaw,50.33028,-105.55917,Canada,Saskatchewan,576,0,airport,6296231
+Charlevoix Airport,47.5975,-70.22389,Canada,Quebec,297,0,airport,6296232
+Moosonee Airport,51.29111,-80.60778,Canada,Ontario,9,0,airport,6296233
+Chibougamau/Chapais Airport,49.77194,-74.52806,Canada,Quebec,387,0,airport,6296234
+Umiujaq Airport,56.53909,-76.51939,Canada,Quebec,71,0,airport,6296235
+Montréal–Mirabel International Airport,45.68194,-74.00528,Canada,Quebec,82,0,airport,6296236
+Natashquan Airport,50.19,-61.78917,Canada,Quebec,11,0,airport,6296237
+Wemindji Airport,53.01083,-78.83028,Canada,Quebec,15,0,airport,6296238
+Gatineau-Ottawa Executive Airport,45.52169,-75.56359,Canada,Quebec,64,0,airport,6296239
+Norway House Airport,53.95823,-97.84359,Canada,Manitoba,223,0,airport,6296240
+Matagami Airport,49.76167,-77.80278,Canada,Quebec,279,0,airport,6296241
+Ekati Airport,64.69914,-110.61434,Canada,Northwest Territories,469,0,airport,6296242
+Old Crow Airport,67.57056,-139.83917,Canada,Yukon,251,0,airport,6296243
+High Level Airport,58.62139,-117.16472,Canada,Alberta,338,0,airport,6296245
+Glass Field,53.21577,-105.67846,Canada,Saskatchewan,428,0,airport,6296247
+Paulatuk Airport,69.36169,-124.07487,Canada,Northwest Territories,5,0,airport,6296248
+Port Hawkesbury Airport,45.65667,-61.36806,Canada,Nova Scotia,114,0,airport,6296249
+Peace River Airport,56.22727,-117.44878,Canada,Alberta,570,0,airport,6296250
+Portage la Prairie Southport Airport,49.90306,-98.27389,Canada,Manitoba,269,0,airport,6296251
+Peterborough Airport,44.23164,-78.36123,Canada,Ontario,191,0,airport,6296252
+Prince Rupert Airport,54.28611,-130.44472,Canada,British Columbia,35,0,airport,6296253
+Powell River Airport,49.83444,-124.50162,Canada,British Columbia,112,0,airport,6296254
+Puvirnituq Airport,60.05056,-77.28694,Canada,Quebec,22,0,airport,6296255
+Muskoka Airport,44.97732,-79.30713,Canada,Ontario,281,0,airport,6296256
+The Pas Airport,53.97139,-101.09111,Canada,Manitoba,270,0,airport,6296257
+Red Deer Regional Airport,52.1801,-113.89269,Canada,Alberta,904,0,airport,6296258
+Windsor Airport,42.27032,-82.96201,Canada,Ontario,189,0,airport,6296259
+Watson Lake Airport,60.11639,-128.8225,Canada,Yukon,687,0,airport,6296260
+Yarmouth Airport,43.82859,-66.08877,Canada,Nova Scotia,42,0,airport,6296261
+Kenora Airport,49.78833,-94.36306,Canada,Ontario,405,0,airport,6296262
+Greater Moncton Romeo LeBlanc International Airport,46.11311,-64.68557,Canada,New Brunswick,70,0,airport,6296263
+Comox Valley Airport,49.71083,-124.88667,Canada,British Columbia,25,0,airport,6296264
+Thunder Bay International Airport,48.37194,-89.32389,Canada,Ontario,199,0,airport,6296265
+Grande Prairie Airport,55.17814,-118.8804,Canada,Alberta,669,0,airport,6296266
+Yorkton Municipal Airport,51.26472,-102.46167,Canada,Saskatchewan,498,0,airport,6296267
+North Battleford Airport,52.76917,-108.24361,Canada,Saskatchewan,548,0,airport,6296268
+Gander International Airport,48.94483,-54.56081,Canada,Newfoundland and Labrador,151,0,airport,6296269
+Sydney/J.A. Douglas McCurdy Airport,46.16139,-60.04778,Canada,Nova Scotia,61,0,airport,6296270
+Resolute Bay Airport,74.71694,-94.96944,Canada,Nunavut,65,0,airport,6296271
+Roberval Airport,48.52118,-72.26781,Canada,Quebec,178,0,airport,6296272
+Red Lake Airport,51.06694,-93.79306,Canada,Ontario,385,0,airport,6296273
+Revelstoke Airport,50.96116,-118.18229,Canada,British Columbia,443,0,airport,6296275
+Greater Sudbury Airport,46.625,-80.79889,Canada,Ontario,347,0,airport,6296276
+Stony Rapids Airport,59.2514,-105.83679,Canada,Saskatchewan,250,0,airport,6296278
+St. John Airport,45.32825,-65.89119,Canada,New Brunswick,108,0,airport,6296279
+Sanikiluaq Airport,56.53703,-79.24872,Canada,Nunavut,32,0,airport,6296280
+Fort Smith Airport,60.02028,-111.96194,Canada,Northwest Territories,204,0,airport,6296281
+Cape Dorset Airport,64.23094,-76.52862,Canada,Nunavut,49,0,airport,6296283
+Thompson Municipal Airport,55.80111,-97.86417,Canada,Manitoba,222,0,airport,6296284
+Tasiujaq Airport,58.66672,-69.95617,Canada,Quebec,31,0,airport,6296288
+CFB Trenton,44.11889,-77.52806,Canada,Ontario,86,0,airport,6296289
+Timmins/Victor M. Power Airport,48.5692,-81.37479,Canada,Ontario,294,0,airport,6296290
+Tuktoyaktuk Airport,69.43333,-133.02639,Canada,Northwest Territories,4,0,airport,6296292
+Naujaat Airport,66.52366,-86.22808,Canada,Nunavut,24,0,airport,6296299
+Hall Beach Airport,68.77611,-81.24361,Canada,Nunavut,8,0,airport,6296301
+Rouyn-Noranda Airport,48.20611,-78.83556,Canada,Quebec,301,0,airport,6296302
+Qikiqtarjuaq Airport,67.54587,-64.03304,Canada,Nunavut,6,0,airport,6296303
+Kuujjuaq Airport,58.09228,-68.42487,Canada,Quebec,39,0,airport,6296305
+Norman Wells Airport,65.28107,-126.79793,Canada,Northwest Territories,72,0,airport,6296306
+Wiarton Airport,44.74583,-81.10722,Canada,Ontario,222,0,airport,6296307
+Petawawa Airport,45.95222,-77.31917,Canada,Ontario,130,0,airport,6296308
+Wabush Airport,52.92194,-66.86444,Canada,Newfoundland and Labrador,551,0,airport,6296309
+Williams Lake Airport,52.18306,-122.05417,Canada,British Columbia,940,0,airport,6296310
+Wrigley Airport,63.20944,-123.43667,Canada,Northwest Territories,149,0,airport,6296312
+Cranbrook/Canadian Rockies International Airport,49.61222,-115.78194,Canada,British Columbia,940,0,airport,6296313
+Saskatoon John G. Diefenbaker International Airport,52.17083,-106.69972,Canada,Saskatchewan,503,0,airport,6296314
+Medicine Hat Airport,50.01889,-110.72083,Canada,Alberta,716,0,airport,6296315
+Fort St. John Airport,56.23806,-120.74028,Canada,British Columbia,694,0,airport,6296316
+Sioux Lookout Airport,50.11389,-91.90528,Canada,Ontario,383,0,airport,6296317
+Whale Cove Airport,62.24029,-92.59767,Canada,Nunavut,20,0,airport,6296318
+Beaver Creek Airport,62.41089,-140.8691,Canada,Yukon,649,0,airport,6296319
+Earlton (Timiskaming Regional) Airport,47.69581,-79.85211,Canada,Ontario,243,0,airport,6296320
+Prince George Airport,53.88737,-122.676,Canada,British Columbia,690,0,airport,6296321
+Northwest Regional Airport,54.46851,-128.57622,Canada,British Columbia,217,0,airport,6296322
+London International Airport,43.02987,-81.14892,Canada,Ontario,278,0,airport,6296323
+Abbotsford International Airport,49.02529,-122.37735,Canada,British Columbia,59,0,airport,6296324
+Erik Nielsen Whitehorse International Airport,60.70955,-135.06727,Canada,Yukon,706,0,airport,6296325
+Wawa Airport,47.96667,-84.78667,Canada,Ontario,287,0,airport,6296326
+Smithers Airport,54.82472,-127.18278,Canada,British Columbia,521,0,airport,6296328
+Northern Rockies Regional Airport,58.83693,-122.59965,Canada,British Columbia,381,0,airport,6296329
+Taloyoak Airport,69.54667,-93.57667,Canada,Nunavut,28,0,airport,6296330
+Lynn Lake Airport,56.86389,-101.07611,Canada,Manitoba,356,0,airport,6296332
+Churchill Airport,58.74051,-94.07267,Canada,Manitoba,28,0,airport,6296333
+Kapuskasing Airport,49.41389,-82.4675,Canada,Ontario,226,0,airport,6296335
+Armstrong Airport,50.29537,-88.91373,Canada,Ontario,322,0,airport,6296336
+Mont-Joli Airport,48.60485,-68.21209,Canada,Quebec,52,0,airport,6296337
+Gore Bay-Manitoulin Airport,45.88391,-82.5708,Canada,Ontario,193,0,airport,6296339
+Slave Lake Airport,55.29306,-114.77722,Canada,Alberta,582,0,airport,6296342
+Sandspit Airport,53.25398,-131.81373,Canada,British Columbia,6,0,airport,6296343
+Sarnia Chris Hadfield Airport,42.99944,-82.30889,Canada,Ontario,181,0,airport,6296344
+Coral Harbour Airport,64.19333,-83.35944,Canada,Nunavut,64,0,airport,6296345
+Port Hardy Airport,50.68056,-127.36667,Canada,British Columbia,21,0,airport,6296346
+Sept-Îles Airport,50.22333,-66.26556,Canada,Quebec,54,0,airport,6296347
+CFB Greenwood,44.98444,-64.91694,Canada,Nova Scotia,28,0,airport,6296348
+Bathurst Airport,47.62972,-65.73889,Canada,New Brunswick,58,0,airport,6296350
+Eastmain River Airport,52.22927,-78.5219,Canada,Quebec,7,0,airport,6296353
+Fort McPherson Airport,67.4075,-134.86056,Canada,Northwest Territories,35,0,airport,6296354
+Tulita Airport,64.9095,-125.57124,Canada,Northwest Territories,98,0,airport,6296355
+Pincher Creek Airport,49.52056,-113.99722,Canada,Alberta,1189,0,airport,6296356
+Stewart Airport,55.93644,-129.98148,Canada,British Columbia,7,0,airport,6296357
+Cat Lake Airport,51.7272,-91.8244,Canada,Ontario,,0,airport,7668107
+Fort Frances Municipal Airport,48.6542,-93.4397,Canada,Ontario,,0,airport,7668108
+Alert Bay Airport,50.5822,-126.916,Canada,British Columbia,,0,airport,7668109
+Kasabonika Airport,53.5247,-88.6428,Canada,Ontario,,0,airport,7668110
+Attawapiskat Airport,52.9275,-82.4319,Canada,Ontario,,0,airport,7668111
+Uranium City Airport,59.5614,-108.481,Canada,Saskatchewan,,0,airport,7668112
+Bonnyville Airport,54.3042,-110.744,Canada,Alberta,,0,airport,7668113
+Tadoule Lake Airport,58.7061,-98.5122,Canada,Manitoba,,0,airport,7668114
+Brochet Airport,57.8894,-101.679,Canada,Manitoba,,0,airport,7668115
+Cornwall Regional Airport,45.0928,-74.5633,Canada,Quebec,,0,airport,7668116
+Cochrane Airport,49.1056,-81.0136,Canada,Ontario,,0,airport,7668117
+Fort Severn Airport,56.0189,-87.6761,Canada,Ontario,,0,airport,7668118
+Fort Albany Airport,52.2014,-81.6969,Canada,Ontario,,0,airport,7668119
+Forestville Airport,48.7461,-69.0972,Canada,Quebec,,0,airport,7668120
+Fort Hope Airport,51.5619,-87.9078,Canada,Ontario,,0,airport,7668121
+Gods Lake Narrows Airport,54.5589,-94.4914,Canada,Manitoba,,0,airport,7668122
+Hornepayne Municipal Airport,49.1931,-84.7589,Canada,Ontario,,0,airport,7668123
+Hopedale Airport,55.4483,-60.2286,Canada,Newfoundland and Labrador,,0,airport,7668124
+Chevery Airport,50.4689,-59.6367,Canada,Quebec,,0,airport,7668125
+Haines Junction Airport,60.7892,-137.54601,Canada,Yukon,,0,airport,7668126
+Atikokan Municipal Airport,48.7739,-91.6386,Canada,Ontario,,0,airport,7668127
+Kirkland Lake Airport,48.2103,-79.9814,Canada,Ontario,,0,airport,7668128
+Lansdowne House Airport,52.1956,-87.9342,Canada,Ontario,,0,airport,7668129
+Leaf Rapids Airport,56.5133,-99.9853,Canada,Manitoba,,0,airport,7668130
+Matane Airport,48.8569,-67.4533,Canada,Quebec,,0,airport,7668131
+Manitouwadge Airport,49.0839,-85.8606,Canada,Ontario,,0,airport,7668132
+Points North Landing Airport,58.2767,-104.082,Canada,Saskatchewan,,0,airport,7668133
+Oxford House Airport,54.9333,-95.2789,Canada,Manitoba,,0,airport,7668134
+Oshawa Airport,43.9228,-78.895,Canada,Ontario,,0,airport,7668135
+Rainbow Lake Airport,58.4914,-119.408,Canada,Alberta,,0,airport,7668136
+Pikangikum Airport,51.8197,-93.9733,Canada,Ontario,,0,airport,7668137
+Peawanuck Airport,54.9881,-85.4433,Canada,Ontario,,0,airport,7668138
+Nakina Airport,50.1828,-86.6964,Canada,Ontario,,0,airport,7668139
+Rivière-du-Loup Airport,47.7644,-69.5847,Canada,Quebec,,0,airport,7668140
+Trois-Rivières Airport,46.3528,-72.6794,Canada,Quebec,,0,airport,7668141
+Red Sucker Lake Airport,54.1672,-93.5572,Canada,Manitoba,,0,airport,7668142
+Russ Beach Airport,44.9458,-75.9406,Canada,Ontario,,0,airport,7668143
+St. Theresa Point Airport,53.8456,-94.8519,Canada,Manitoba,,0,airport,7668144
+Pembroke Airport,45.8644,-77.2517,Canada,Ontario,,0,airport,7668145
+Alma Airport,48.5089,-71.6419,Canada,Quebec,,0,airport,7668146
+Bonaventure Airport,48.0711,-65.4603,Canada,Quebec,,0,airport,7668147
+Vernon Regional Airport,50.2472,-119.33041,Canada,British Columbia,,0,airport,7668148
+Webequie Airport,52.96074,-87.37495,Canada,Ontario,,0,airport,7668149
+Rimouski Airport,48.4781,-68.4969,Canada,Quebec,,0,airport,7668150
+York Landing Airport,56.0894,-96.0892,Canada,Manitoba,,0,airport,7668151
+Salmon Arm Airport,50.6828,-119.229,Canada,British Columbia,,0,airport,7668152
+Roland-Désourdy Airport,45.2908,-72.7414,Canada,Quebec,,0,airport,7668153
+Fond-Du-Lac Airport,59.3344,-107.182,Canada,Saskatchewan,,0,airport,7668154
+Grand Forks Airport,49.0156,-118.431,Canada,British Columbia,,0,airport,7668155
+Gods River Airport,54.8397,-94.0786,Canada,Manitoba,,0,airport,7668156
+Little Grand Rapids Airport,52.0456,-95.4658,Canada,Manitoba,,0,airport,7668157
+Jenpeg Airport,54.5189,-98.0461,Canada,Manitoba,,0,airport,7668158
+Swan River Airport,52.1206,-101.236,Canada,Manitoba,,0,airport,7668159
+Kashechewan Airport,52.2825,-81.6778,Canada,Ontario,,0,airport,7668160
+Thicket Portage Airport,55.3189,-97.7078,Canada,Manitoba,,0,airport,7668161
+Muskrat Dam Airport,53.4414,-91.7628,Canada,Ontario,,0,airport,7668162
+Pikwitonei Airport,55.5889,-97.1642,Canada,Manitoba,,0,airport,7668163
+Masset Airport,54.02783,-132.12624,Canada,British Columbia,,0,airport,7668164
+Sachigo Lake Airport,53.8911,-92.1964,Canada,Ontario,,0,airport,7668165
+Sandy Lake Airport,53.0642,-93.3444,Canada,Ontario,,0,airport,7668166
+Shamattawa Airport,55.8656,-92.0814,Canada,Manitoba,,0,airport,7668168
+Ignace Municipal Airport,49.4297,-91.7178,Canada,Ontario,,0,airport,7668169
+Wollaston Lake Airport,58.1069,-103.172,Canada,Saskatchewan,,0,airport,7668170
+Centralia/James T. Field Memorial Aerodrome,43.2856,-81.5083,Canada,Ontario,,0,airport,7730024
+Cross Lake Airport,54.6106,-97.7608,Canada,Manitoba,,0,airport,7730028
+Dolbeau-Saint-Félicien Airport,48.7785,-72.375,Canada,Quebec,,0,airport,7730029
+Manitowaning/Manitoulin East Municipal Airport,45.84321,-81.8569,Canada,Ontario,,0,airport,7730031
+Amos/Magny Airport,48.56386,-78.24738,Canada,Quebec,,0,airport,7730032
+Mont Tremblant International Airport,46.4094,-74.78,Canada,Quebec,,0,airport,7730033
+Texada/Gillies Bay Airport,49.6942,-124.518,Canada,British Columbia,,0,airport,7730034
+Hearst (René Fontaine) Municipal Airport,49.7142,-83.6861,Canada,Ontario,,0,airport,7730035
+Saint-Augustin Airport,51.2117,-58.6583,Canada,Quebec,,0,airport,7730036
+Owen Sound Billy Bishop Regional Airport,44.5903,-80.8375,Canada,Ontario,,0,airport,7730037
+Saint Thomas Municipal Airport,42.77513,-81.10416,Canada,Ontario,,0,airport,7730038
+Ottawa / Rockcliffe Airport,45.4603,-75.6461,Canada,Ontario,,0,airport,7730039
+Marathon Airport,48.7553,-86.3444,Canada,Ontario,,0,airport,7730040
+Deer Lake Airport,52.6558,-94.0614,Canada,Ontario,,0,airport,7730041
+Boundary Bay Airport,49.0742,-123.012,Canada,British Columbia,,0,airport,7730043
+Kelsey Airport,56.0375,-96.5097,Canada,Manitoba,,0,airport,7730044
+Pukatawagan Airport,55.7492,-101.266,Canada,Manitoba,,0,airport,7730045
+Round Lake (Weagamow Lake) Airport,52.9436,-91.3128,Canada,Ontario,,0,airport,7730047
+South Indian Lake Airport,56.7928,-98.9072,Canada,Manitoba,,0,airport,7730048
+Lac Brochet Airport,58.61799,-101.46565,Canada,Manitoba,,0,airport,7730049
+Saint-Jean Airport,45.2944,-73.2811,Canada,Quebec,,0,airport,7730323
+Ogoki Post Airport,51.6586,-85.9017,Canada,Ontario,,0,airport,7730451
+Poplar Hill Airport,52.1133,-94.2556,Canada,Ontario,,0,airport,7730452
+Toronto/Downsview Airport,43.74335,-79.46609,Canada,Ontario,,0,airport,8531977
+Arctic Bay Airport,73.00598,-85.03294,Canada,Nunavut,,0,airport,8531991
+La Sarre Airport,48.9159,-79.18104,Canada,Quebec,,0,airport,8181664
+Big Trout Lake Airport,53.81857,-89.89829,Canada,Ontario,,0,airport,7910161
+Gillam Airport,56.35739,-94.71116,Canada,Manitoba,145,0,airport,7910207
+Kangirsuk Airport,60.02305,-70.00321,Canada,Quebec,123,0,airport,7910211
+Salluit Airport,62.1792,-75.66726,Canada,Quebec,226,0,airport,7910212
+Kangiqsujuaq (Wakeham Bay) Airport,61.58853,-71.92951,Canada,Quebec,153,0,airport,7910228
+Colville Lake/Tommy Kochon Aerodrome,67.03973,-126.0815,Canada,Northwest Territories,259,0,airport,7910279
+Gamètì/Rae Lakes Airport,64.11599,-117.30958,Canada,Northwest Territories,220,0,airport,7910283
+Chesterfield Inlet Airport,63.34587,-90.72759,Canada,Nunavut,10,0,airport,7910287
+Jasper Airport,52.99629,-118.0602,Canada,Alberta,,0,airport,7873819
+Chatham-Kent Airport,42.3081,-82.07894,Canada,Ontario,,0,airport,8298609
+Ilford Airport,56.05148,-95.61401,Canada,Manitoba,,0,airport,8298646
+Lake Simcoe Regional Airport,44.4853,-79.5556,Canada,Ontario,,0,airport,8298710
+Fairmont Hot Springs Airport,50.32453,-115.87229,Canada,British Columbia,,0,airport,8505073
+Banff Airport,51.20753,-115.54124,Canada,Alberta,,0,airport,8260779
+Dease Lake Airport,58.42509,-130.02354,Canada,British Columbia,,0,airport,8260801
+High Prairie,55.39361,-116.47528,Canada,Alberta,,0,airport,8260827
+La Tuque Airport,47.40666,-72.78889,Canada,Quebec,,0,airport,8260840
+Lac La Biche Airport,54.76931,-112.02999,Canada,Alberta,,0,airport,8260843
+La Grande-3 Airport,53.572,-76.19,Canada,Quebec,,0,airport,8260846
+Mould Bay Airport,76.23908,-119.31873,Canada,Northwest Territories,,0,airport,8260867
+Pinehouse Lake Airport,55.52739,-106.5824,Canada,Saskatchewan,,0,airport,8260884
+Fort MacKay/Horizon Airport,57.37,-111.7,Canada,Alberta,,0,airport,8260954
+South Cariboo Regional Airport,51.73373,-121.33181,Canada,British Columbia,,0,airport,8261033
+Collins Bay Airport,58.23298,-103.68141,Canada,Saskatchewan,,0,airport,8298841
+Kincardine Airport,44.20116,-81.60653,Canada,Ontario,,0,airport,8298866
+Hudson's Hope Airport,56.03388,-121.98635,Canada,British Columbia,,0,airport,8298905
+Chilliwack Airport,49.15364,-121.94301,Canada,British Columbia,,0,airport,8299024
+Langley Regional Airport,49.1002,-122.62588,Canada,British Columbia,,0,airport,8299186
+Poplar River Airport,52.99676,-97.27818,Canada,Manitoba,,0,airport,8299200
+Cowley Airport,49.63606,-114.09645,Canada,Alberta,,0,airport,8299246
+Bella Bella (Campbell Island) Airport,52.18193,-128.15526,Canada,British Columbia,,0,airport,8617241
+Wekweètì Airport,64.19166,-114.07911,Canada,Northwest Territories,,0,airport,8555860
+Bloodvein River Airport,51.78483,-96.69205,Canada,Manitoba,,0,airport,8520831
+Vermillon Airport,53.3569,-110.8251,Canada,Alberta,,0,airport,8521339
+Blue River Airport,52.11667,-119.28333,Canada,British Columbia,682,0,airport,6301447
+Sable Island Airport,43.92955,-59.97763,Canada,Nova Scotia,4,0,airport,6301477
+Goderich Airport,43.76589,-81.70858,Canada,Ontario,214,0,airport,6295825
+Fort Providence Airport,61.31667,-117.6,Canada,Northwest Territories,,0,airport,6295860
+Assiniboia Airport,49.73097,-105.94558,Canada,Saskatchewan,,0,airport,6295885
+Puntzi Mountain Airport,52.11667,-124.13333,Canada,British Columbia,,0,airport,6295985
+Nipawin Airport,53.33333,-104,Canada,Saskatchewan,372,0,airport,6296162
+Springbank Airport,51.10306,-114.37444,Canada,Alberta,,0,airport,6296163
+Princeton Airport,49.46806,-120.51139,Canada,British Columbia,,0,airport,6296174
+Golden Airport,51.29917,-116.98222,Canada,British Columbia,784,0,airport,6296189
+Byron Bay Airport,68.75623,-109.08875,Canada,Nunavut,92,0,airport,6296295
+Wainwright Airport,52.79583,-110.8575,Canada,Alberta,679,0,airport,6296311
+Mackenzie Airport,55.30444,-123.13222,Canada,British Columbia,,0,airport,6296349
+Edmonton/Villeneuve Airport,53.6675,-113.85444,Canada,Alberta,,0,airport,6296358
+South Shore Regional Airport,44.2303,-64.8561,Canada,Nova Scotia,,0,airport,7730016
+St. Andrews Airport,50.0564,-97.0325,Canada,Manitoba,,0,airport,7730019
+Lac du Bonnet Airport,50.2944,-96.01,Canada,Manitoba,,0,airport,7730020
+Angling Lake/Wapekeka Airport,53.84848,-89.57849,Canada,Ontario,,0,airport,7730023
+Anahim Lake Airport,52.45384,-125.30615,Canada,British Columbia,,0,airport,7730440
+Williams Harbour Airport,52.5669,-55.7847,Canada,Newfoundland and Labrador,,0,airport,7730441
+St. Lewis (Fox Harbour) Airport,52.3728,-55.6739,Canada,Newfoundland and Labrador,,0,airport,7730442
+Port Hope Simpson Airport,52.5281,-56.2861,Canada,Newfoundland and Labrador,,0,airport,7730443
+Rigolet Airport,54.17937,-58.45748,Canada,Newfoundland and Labrador,,0,airport,7730444
+Edmonton/Cooking Lake Airport,53.42569,-113.11001,Canada,Alberta,,0,airport,7730445
+Summer Beaver Airport,52.7086,-88.5419,Canada,Ontario,,0,airport,7730446
+Wunnummin Lake Airport,52.8939,-89.2892,Canada,Ontario,,0,airport,7730447
+North Spirit Lake Airport,52.49,-92.9711,Canada,Ontario,,0,airport,7730448
+Bearskin Lake Airport,53.9656,-91.0272,Canada,Ontario,,0,airport,7730449
+Kingfisher Lake Airport,53.0125,-89.8553,Canada,Ontario,,0,airport,7730450
+Chisasibi Airport,53.8056,-78.9169,Canada,Quebec,,0,airport,7730453
+Tête-à-la-Baleine Airport,50.6744,-59.3836,Canada,Quebec,,0,airport,7730454
+La Tabatière Airport,50.8308,-58.9756,Canada,Quebec,,0,airport,7730455
+Virden/R.J.,49.8783,-100.918,Canada,Manitoba,,0,airport,7730456
+Brockville Regional Tackaberry Airport,44.63947,-75.75022,Canada,Ontario,,0,airport,8531853
+Brampton Airport,43.75912,-79.87427,Canada,Ontario,,0,airport,8532024
+Kattiniq/Donaldson Airport,61.662,-73.32129,Canada,Quebec,,0,airport,8532029
+Atlin Airport,59.57994,-133.66834,Canada,British Columbia,,0,airport,8533085
+Port Alberni Airport,49.31933,-124.92979,Canada,British Columbia,,0,airport,8533118
+Hatchet Lake Airport,58.66225,-103.54134,Canada,Saskatchewan,,0,airport,8533145
+Stratford Municipal Airport,43.41504,-80.93437,Canada,Ontario,,0,airport,8533159
+Nelson Airport,49.49263,-117.30343,Canada,British Columbia,,0,airport,8533164
+Douglas Lake Airport,50.16275,-120.13992,Canada,British Columbia,,0,airport,8774365
+Pemberton Airport,50.30217,-122.73934,Canada,British Columbia,,0,airport,8643477
+Qualicum Beach Airport,49.33944,-124.39643,Canada,British Columbia,,0,airport,7883635
+Sechelt-Gibsons Airport,49.46144,-123.7186,Canada,British Columbia,,0,airport,7887355
+Natuashish Airport,55.91396,-61.18552,Canada,Newfoundland and Labrador,,0,airport,7910167
+Denny Island Aerodrome,52.13781,-128.06007,Canada,British Columbia,,0,airport,7910177
+Postville Airport,54.91031,-59.78569,Canada,Newfoundland and Labrador,68,0,airport,7910199
+Gethsemani Airport,50.25905,-60.66905,Canada,Quebec,,0,airport,7910209
+Whatì Airport,63.13159,-117.24764,Canada,Northwest Territories,269,0,airport,7910230
+Trail Airport,49.05685,-117.60793,Canada,British Columbia,,0,airport,7910243
+Kegaska Airport,50.1958,-61.26577,Canada,Quebec,10,0,airport,7910267
+Keewaywin Airport,52.99158,-92.83738,Canada,Ontario,301,0,airport,7910275
+Black Tickle Airport,53.46908,-55.78537,Canada,Newfoundland and Labrador,17,0,airport,7910284
+Hansen Airfield,50.01908,-124.98476,Canada,British Columbia,50,0,airport,7910393
+Stuart Island Airport,50.40995,-125.13522,Canada,British Columbia,,0,airport,7873820
+Pelee Island Airport,41.77992,-82.67122,Canada,Ontario,,0,airport,8298632
+Charlottetown Airport,52.76489,-56.11731,Canada,Newfoundland and Labrador,,0,airport,8298634
+Port McNeill Airport,50.57195,-127.02676,Canada,British Columbia,,0,airport,8298649
+Laurie River Airport,56.24986,-101.30343,Canada,Manitoba,,0,airport,8298678
+Knee Lake Airport,54.91728,-94.79553,Canada,Manitoba,,0,airport,8298690
+Dean River Airport,52.82338,-126.96543,Canada,British Columbia,,0,airport,8298716
+Buchans Airport,48.84839,-56.83837,Canada,Newfoundland and Labrador,,0,airport,8298757
+Athabasca Airport,54.7383,-113.20553,Canada,Alberta,,0,airport,8288515
+Snap Lake Airport,63.5936,-110.905,Canada,Northwest Territories,,0,airport,8260714
+Saglek Airport,58.47516,-62.65554,Canada,Newfoundland and Labrador,,0,airport,8260729
+Diavik Airport,64.51083,-110.30531,Canada,Northwest Territories,,0,airport,8260739
+Opinaca,52.2219,-76.6125,Canada,Quebec,,0,airport,8260753
+Tsylos Park Lodge Aerodrome,51.6275,-124.14413,Canada,British Columbia,,0,airport,8260795
+Chute-Des-Passes Airport,49.88695,-71.25659,Canada,Quebec,,0,airport,8260796
+Fontanges Airport,54.5532,-71.17759,Canada,Quebec,,0,airport,8260805
+Grande Cache Airport,53.23,-119,Canada,British Columbia,,0,airport,8260821
+Hope Bay Airport,68.1639,-106.614,Canada,Nunavut,,0,airport,8260829
+Hinton/Jasper-Hinton Airport,53.32042,-117.75164,Canada,Alberta,,0,airport,8260831
+Lebel-sur-Quévillon Airport,49.02965,-77.01622,Canada,Quebec,,0,airport,8260849
+Mary River,71.32614,-79.37383,Canada,Nunavut,177,0,airport,8260861
+Telegraph Creek Airport,57.91343,-131.12672,Canada,British Columbia,,0,airport,8260903
+Tisdale Airport,52.83684,-104.06641,Canada,Saskatchewan,,0,airport,8260909
+Tungsten (Cantung) Airport,61.96309,-128.21783,Canada,Yukon,,0,airport,8260915
+Fairview Airport,56.08015,-118.43657,Canada,Alberta,,0,airport,8261023
+Cache Creek Airport,50.77381,-121.32133,Canada,British Columbia,,0,airport,8261064
+Macmillan Pass Airport,63.176,-130.202,Canada,Yukon,,0,airport,8298807
+Fort MacKay/Albian Aerodrome,57.2278,-111.419,Canada,Alberta,,0,airport,8298921
+Powell Lake,50.1833,-124.4,Canada,British Columbia,,0,airport,8298977
+Bar River Airport,46.41928,-84.09845,Canada,Ontario,,0,airport,8299178
+Killarney Airport,45.97719,-81.49598,Canada,Ontario,,0,airport,9072700
+Cheadle Airport,51.05737,-113.62095,Canada,Alberta,,0,airport,8617228
+Opapimiskan Lake Airport,52.60834,-90.37568,Canada,Ontario,,0,airport,8617236
+Kasba Lake Airport,60.29183,-102.50175,Canada,Northwest Territories,,0,airport,8617237
+Donnelly Airport,55.70917,-117.10078,Canada,Alberta,,0,airport,8617282
+Parry Sound Area Municipal Airport,45.25386,-79.82786,Canada,Ontario,,0,airport,8617283
+Courtenay Airpark,49.68057,-124.98257,Canada,British Columbia,,0,airport,8629713
+Houston Airport,54.43808,-126.77789,Canada,British Columbia,,0,airport,8558451
+Lillooet Airport,50.67354,-121.89194,Canada,British Columbia,,0,airport,8555659
+Bob Quinn Lake Airport,56.96697,-130.2503,Canada,British Columbia,,0,airport,8555876
+Nejanilini Lake Airport,59.48707,-97.78107,Canada,Manitoba,,0,airport,8555910
+Taltheilei Narrows Airport,62.59713,-111.5411,Canada,Northwest Territories,,0,airport,8556238
+Perison,54.3969,-124.26267,Canada,British Columbia,,0,airport,8520824
+Pitt Meadows Regional Airport,49.21563,-122.70947,Canada,British Columbia,,0,airport,8520826
+Chicoutimi/Saint-Honoré Aerodrome,48.5207,-71.05056,Canada,Quebec,,0,airport,8520827
+Ottawa/Carp Airport,45.31827,-76.02063,Canada,Ontario,,0,airport,8520828
+Tillsonburg Airport,42.92469,-80.74831,Canada,Ontario,,0,airport,8520829
+Brantford Airport,43.12825,-80.34016,Canada,Ontario,,0,airport,8520878
+Fort MacKay/Firebag Aerodrome,57.28192,-111.09452,Canada,Alberta,,0,airport,8521333
+Edmundston Airport,47.48708,-68.47739,Canada,New Brunswick,,0,airport,8533732
+Midland/Huronia Airport,44.68565,-79.93026,Canada,Ontario,,0,airport,8533733
+Obre Lake/North of Sixty Airport,60.31513,-103.13252,Canada,Northwest Territories,,0,airport,8533757
+Sparwood/Elk Valley Airport,49.83408,-114.87884,Canada,British Columbia,,0,airport,8533763
+Tumbler Ridge Airport,55.02731,-120.93175,Canada,British Columbia,,0,airport,8533769
+Great Bear Lake Airport,66.70279,-119.71536,Canada,Northwest Territories,,0,airport,8533822
+Parent Airport,47.93131,-74.60912,Canada,Quebec,,0,airport,8533823
+Saunders Field,50.1236,-120.74365,Canada,British Columbia,634,0,airport,8533844
+Fort McMurray/Mildred Lake Airport,57.05488,-111.57286,Canada,Alberta,,0,airport,8533853
+Brooks Airport,50.63381,-111.92517,Canada,Alberta,,0,airport,8533856
+Empress Airport,50.93329,-110.01269,Canada,Alberta,,0,airport,8533862
+Gahcho Kue Aerodrome,63.43362,-109.20067,Canada,Northwest Territories,,0,airport,11185234
+Creston Aerodrome,49.03608,-116.49795,Canada,British Columbia,638,0,airport,11427263
+Drayton Valley Industrial Airport,53.265,-114.962,Canada,Alberta,,0,airport,11549258
+One Hundred Mile House Airport,51.6425,-121.30537,Canada,British Columbia,,0,airport,11550688
+Conklin (Leismer) Airport,55.69589,-111.28071,Canada,Alberta,,0,airport,11886712
+Primrose Airport,55.39026,-111.1193,Canada,Alberta,,0,airport,11886720
+Kirby Lake Aerodrome,55.35578,-110.63467,Canada,Alberta,,0,airport,12110494
+Leader Airport,50.9,-109.5,Canada,Saskatchewan,,0,airport,6295895
+Shoal Lake Airport,50.45,-100.6,Canada,Manitoba,,0,airport,6296054
+Muncho Lake/Mile 462 Water Aerodrome,59.00906,-125.77363,Canada,British Columbia,835,0,airport,6296083
+Cold Lake Regional Airport,54.47762,-110.2751,Canada,Alberta,541,0,airport,6296244
+Montréal/Les Cèdres Airport,45.34783,-74.07905,Canada,Quebec,,0,airport,8533122
+Ford Bay Airport,66.0381,-124.71405,Canada,Northwest Territories,,0,airport,8642945
+Johnson Point Airport,72.76805,-118.49784,Canada,Northwest Territories,,0,airport,9564314
+Whaletown Water Aerodrome,50.10836,-125.05098,Canada,British Columbia,,0,airport,8298628
+Slate Island,48.5667,-86.75,Canada,Ontario,,0,airport,8298863
+Tanquary Fiord Airport,81.41134,-76.86052,Canada,Nunavut,,0,airport,9035694
+Courtenay Airport,49.66635,-125.09909,Canada,British Columbia,,0,airport,8630124
+Poste Montagnais Airport,51.88971,-65.71622,Canada,Quebec,,0,airport,11550707
+Saint-Jean-Chrysostome Airport,46.68772,-71.15162,Canada,Quebec,,0,airport,11550719
+Conklin Airport,55.63441,-111.08742,Canada,Alberta,,0,airport,11927998
+Rae/Edzo Airport,62.76609,-116.082,Canada,Northwest Territories,,0,airport,12181872
+Longstaff Bluff Airport,68.93333,-75.28333,Canada,Nunavut,14,0,airport,6296300
+Cape Dyer,66.5919,-61.5733,Canada,Nunavut,,0,airport,8260737
+Moose Lake Airport,53.70429,-100.34277,Canada,Manitoba,,0,airport,11670312
+Mingan Airport,50.28689,-64.15226,Canada,Quebec,,0,airport,11695382
+Hanover Saugeen Airport,44.15806,-81.06333,Canada,Ontario,287,0,airport,12173185
+Peace River Airport,57.38188,-121.4135,Canada,British Columbia,,0,airport,8298947
+Clarence and Abel Swallow Airport,52.7305,-72.22083,Canada,Quebec,476,0,airport,11747358
+Burlington Executive Airport,43.44139,-79.85028,Canada,Ontario,183,0,airport,12173184
+St Georges Airport,46.09526,-70.71728,Canada,Quebec,,0,airport,11749373
